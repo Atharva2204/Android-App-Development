@@ -8,18 +8,18 @@
 <com.google.android.material.textfield.TextInputLayout
         	            android:layout_width="350dp"
         	            android:layout_height="90dp"
-                      android:layout_marginLeft="15dp"
+                        android:layout_marginLeft="15dp"
         	            android:hint="Title"
         	            app:counterEnabled="true"
         	            app:counterMaxLength="50"
-                      app:endIconDrawable="@drawable/title"
+                        app:endIconDrawable="@drawable/title"
         	            app:endIconMode="custom"
         	            app:errorEnabled="true">
 
         	            <com.google.android.material.textfield.TextInputEditText
         	                android:layout_width="match_parent"
         	                android:layout_height="wrap_content"
-                          android:id="@+id/title"/>
+                            android:id="@+id/edittext1"/>
 </com.google.android.material.textfield.TextInputLayout>
 
 </LinearLayout>
