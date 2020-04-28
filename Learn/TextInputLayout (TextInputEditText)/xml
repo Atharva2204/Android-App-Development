@@ -23,3 +23,12 @@
 </com.google.android.material.textfield.TextInputLayout>
 
 </LinearLayout>
+
+
+
+/*
+
+    android.support.design.widget.TextInputLayout       //  deprecated
+
+
+*/
